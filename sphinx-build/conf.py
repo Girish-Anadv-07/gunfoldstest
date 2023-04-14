@@ -53,7 +53,7 @@ html_theme_options = {
     "dark_logo": "dark.png",
     "source_repository": "https://github.com/Girish-Anadv-07/gunfoldstest",
     "source_branch": "master",
-    "source_directory": "sphinx-build/",
+    "source_directory": "sphinx-build",
     "light_css_variables": {
         "font-stack": "FreightSans, Helvetica Neue, Helvetica, Arial, sans-serif",
         "font-family": "FreightSans, Helvetica Neue, Helvetica, Arial, sans-serif",
