@@ -51,9 +51,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme_options = {
     "light_logo": "light.png",
     "dark_logo": "dark.png",
-    # "source_repository": "",
-    # "source_branch": "",
-    # "source_directory": "",
+    "source_repository": "https://github.com/Girish-Anadv-07/gunfoldstest",
+    "source_branch": "master",
+    "source_directory": "sphinx-build/",
     "light_css_variables": {
         "font-stack": "FreightSans, Helvetica Neue, Helvetica, Arial, sans-serif",
         "font-family": "FreightSans, Helvetica Neue, Helvetica, Arial, sans-serif",
