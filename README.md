@@ -3,7 +3,8 @@ gunfolds
 
 Tools to explore dynamic causal graphs in the case of  undersampled data helping to unfold the apparent structure into the underlying truth.
 
-[Installation](sphinx-build/getting_started/installation.rst)
+```bash
+$ cat sphinx-build/getting_started/installation.rst
 
 Acknowledgment
 ========
